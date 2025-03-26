@@ -18,6 +18,7 @@
 ## 📹 Demo
 
 ![Demo GIF](demo/demo.gif)  
+[Demo Video](https://youtu.be/rvtyZgJoR1E)
 
 ---
 
